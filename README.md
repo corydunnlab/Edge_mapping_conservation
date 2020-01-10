@@ -12,9 +12,11 @@
 
 Dependency: Bio.SeqIO
 
-Requirement: “IUPAC_nonstandard_codes.txt” file must be in the same folder where the script is run.
+Requirement: “IUPAC_nonstandard_codes.txt” file must be in the same folder where the script is run. The use of different code files is possible. Please refer to source code to get more information.
 
-The use of different code files is possible. Please refer to source code to get more information.
+```
+$python replace-nonstandard.py -a [alignment_file]
+```
 
 **extract-correspondence-for-merged-alignment-v.1.1.py** - Please refer to source code to get more information.
 
@@ -24,8 +26,6 @@ The use of different code files is possible. Please refer to source code to get 
 
 **Usage**
 
-$python replace-nonstandard.py -a [alignment_file]
-
-Also, you can use --help” or “-h” flags to get usage information. 
+Use --help” or “-h” flags to get usage information. 
 
 Contact Bala Ani Akpinar (@aniakpinar) for code-related issues and Cory Dunn (@corydunnlab) for more general inquiries.
