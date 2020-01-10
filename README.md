@@ -11,6 +11,7 @@
 **replace-nonstandard.py** – Replaces non-standard nucleotides in a FASTA alignment file with standard nucleotides. The replacement is picked at random, from the IUPAC correspondents that are represented in the alignment for the given position. 
 
 Dependency: Bio.SeqIO
+
 Requirement: “IUPAC_nonstandard_codes.txt” file must be in the same folder where the script is run.
 
 The use of different code files is possible. Please refer to source code to get more information.
