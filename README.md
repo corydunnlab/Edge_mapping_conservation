@@ -16,6 +16,11 @@ Requirement: “IUPAC_nonstandard_codes.txt” file must be in the same folder w
 
 The use of different code files is possible. Please refer to source code to get more information.
 
+**extract-correspondence-for-merged-alignment-v.1.1.py** - Please refer to source code to get more information.
+
+**AA-presence-lookup-table-v.1.1.py** - Please refer to source code to get more information.
+
+**direct-subst-lookup-table-proteins-v.1.1.py** - Please refer to source code to get more information.
 
 **Usage**
 
