@@ -50,7 +50,7 @@ Reference amino acid refers to a species of interest, that is specified in the c
 -m flag determines if the search will be within internal or all tree edges (internal/all; default=all)
 
 ```
-$ python Direct-subst-lookup-table-proteins-v1.1.py -a [alignment_file] -t [tree_file] -corr [correspondence_file] -m <internal/all>
+$ python direct-subst-lookup-table-proteins-v1.1.py -a [alignment_file] -t [tree_file] -corr [correspondence_file] -m <internal/all>
 ```
 Dependencies: Bio.SeqIO and Bio.Phylo, xlsxwriter
 
